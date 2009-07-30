@@ -1,0 +1,116 @@
+I, [2009-07-30T14:56:34.321858 #26535]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:34.330972 #26535]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:34.410521 #26535]  INFO -- : Requesting project_id nil
+I, [2009-07-30T14:56:36.433143 #26535]  INFO -- : Syncing test modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.438758 #26535]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.465057 #26535]  INFO -- : Syncing .devver modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.470691 #26535]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.484686 #26535]  INFO -- : Syncing .devver/hooks/init_database modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.498031 #26535]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:46.902606 #26544]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:46.902915 #26544]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:46.983196 #26544]  INFO -- : Requesting project_id 4063885920
+I, [2009-07-30T14:57:28.802469 #26577]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:57:28.802907 #26577]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:57:28.868202 #26577]  INFO -- : Requesting project_id nil
+I, [2009-07-30T14:57:30.543454 #26577]  INFO -- : Syncing test modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.548875 #26577]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.555060 #26577]  INFO -- : Syncing .devver modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.560470 #26577]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.565763 #26577]  INFO -- : Syncing .devver/hooks/init_database modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.572427 #26577]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:58:00.554083 #26601]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:58:00.554371 #26601]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:58:00.624595 #26601]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T14:58:07.075037 #26601]  INFO -- : changed files: [["test/stuff_test.rb", Thu Jul 30 14:57:58 -0400 2009]]
+I, [2009-07-30T14:58:07.075895 #26601]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:57:58 -0400 2009
+I, [2009-07-30T15:00:33.612627 #26882]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:00:33.612929 #26882]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:00:33.682334 #26882]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:00:34.068761 #26882]  INFO -- : changed files: [["db", Thu Jul 30 15:00:12 -0400 2009], ["config", Thu Jul 30 15:00:29 -0400 2009], ["config/database.yml", Thu Jul 30 15:00:29 -0400 2009]]
+I, [2009-07-30T15:00:34.068942 #26882]  INFO -- : Syncing db modified at Thu Jul 30 15:00:12 -0400 2009
+I, [2009-07-30T15:00:34.070751 #26882]  INFO -- : Syncing config modified at Thu Jul 30 15:00:29 -0400 2009
+I, [2009-07-30T15:00:34.072433 #26882]  INFO -- : Syncing config/database.yml modified at Thu Jul 30 15:00:29 -0400 2009
+I, [2009-07-30T15:03:09.635268 #27001]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:03:09.635490 #27001]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:03:09.699991 #27001]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:03:10.068324 #27001]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:02:57 -0400 2009]]
+I, [2009-07-30T15:03:10.068526 #27001]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:02:57 -0400 2009
+I, [2009-07-30T15:04:40.502451 #27073]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:04:40.502650 #27073]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:04:40.565103 #27073]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:04:40.950883 #27073]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:04:31 -0400 2009]]
+I, [2009-07-30T15:04:40.951268 #27073]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:04:31 -0400 2009
+I, [2009-07-30T15:05:10.319597 #27095]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:05:10.319920 #27095]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:05:10.385974 #27095]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:05:10.772894 #27095]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:05:08 -0400 2009]]
+I, [2009-07-30T15:05:10.773320 #27095]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:05:08 -0400 2009
+I, [2009-07-30T15:23:09.203086 #28753]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:23:09.203404 #28753]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:23:09.268115 #28753]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:23:10.134168 #28753]  INFO -- : changed files: [["README", Thu Jul 30 15:11:06 -0400 2009]]
+I, [2009-07-30T15:23:10.134440 #28753]  INFO -- : deleted files: [[".devver/hooks/init_database", "delete"]]
+I, [2009-07-30T15:23:10.134773 #28753]  INFO -- : Syncing README modified at Thu Jul 30 15:11:06 -0400 2009
+I, [2009-07-30T15:23:10.140625 #28753]  INFO -- : Syncing .devver/hooks/init_database modified at delete
+I, [2009-07-30T15:24:21.797822 #28753]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-07-30T15:24:23.371338 #28810]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:24:23.371592 #28810]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:24:23.434990 #28810]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:27:36.342126 #28810]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-07-30T16:51:53.375829 #3709]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:51:53.390506 #3709]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:51:53.498478 #3709]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T16:51:54.281174 #3709]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:28:05 -0400 2009], ["test/stuff_test.rb", Thu Jul 30 15:28:05 -0400 2009], [".devver/devver_opts.yml", Thu Jul 30 15:28:05 -0400 2009], ["config/database.yml", Thu Jul 30 15:28:05 -0400 2009], ["README", Thu Jul 30 15:28:05 -0400 2009]]
+I, [2009-07-30T16:51:54.281362 #3709]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:28:05 -0400 2009
+I, [2009-07-30T16:51:54.283796 #3709]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 15:28:05 -0400 2009
+I, [2009-07-30T16:51:54.286027 #3709]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 15:28:05 -0400 2009
+I, [2009-07-30T16:51:54.287903 #3709]  INFO -- : Syncing config/database.yml modified at Thu Jul 30 15:28:05 -0400 2009
+I, [2009-07-30T16:51:54.289584 #3709]  INFO -- : Syncing README modified at Thu Jul 30 15:28:05 -0400 2009
+I, [2009-07-30T16:52:32.222771 #3709]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-07-30T16:52:33.368621 #3743]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:52:33.369004 #3743]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:52:33.446880 #3743]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T16:53:23.878735 #3743]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-07-30T16:53:24.898783 #3779]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:53:24.899093 #3779]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:53:24.963855 #3779]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T16:53:36.581721 #3779]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-07-30T16:53:42.324666 #3941]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:53:42.324903 #3941]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T16:53:42.386491 #3941]  INFO -- : Requesting project_id nil
+I, [2009-07-30T16:53:47.456393 #3941]  INFO -- : Syncing Rakefile modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.458822 #3941]  INFO -- : Syncing test modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.460686 #3941]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.462824 #3941]  INFO -- : Syncing .devver modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.464921 #3941]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.466816 #3941]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.468825 #3941]  INFO -- : Syncing db modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.470739 #3941]  INFO -- : Syncing config modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.475458 #3941]  INFO -- : Syncing config/database.yml modified at Thu Jul 30 16:53:47 -0400 2009
+I, [2009-07-30T16:53:47.477777 #3941]  INFO -- : Syncing README modified at Thu Jul 30 16:53:47 -0400 2009
+E, [2009-07-30T16:56:27.655680 #3941] ERROR -- : There are no workers ready for this project right now.
+Please try again in one minute. If there is no response a second time, please report this problem to support@devver.net
+I, [2009-07-30T17:02:16.478751 #5048]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T17:02:16.479068 #5048]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T17:02:16.543093 #5048]  INFO -- : Requesting project_id nil
+I, [2009-07-30T17:02:18.490850 #5048]  INFO -- : Syncing Rakefile modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.497819 #5048]  INFO -- : Syncing test modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.503276 #5048]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.513364 #5048]  INFO -- : Syncing .devver modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.519122 #5048]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.527529 #5048]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.535990 #5048]  INFO -- : Syncing db modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.542678 #5048]  INFO -- : Syncing config modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.547269 #5048]  INFO -- : Syncing config/database.yml modified at Thu Jul 30 17:02:18 -0400 2009
+I, [2009-07-30T17:02:18.549146 #5048]  INFO -- : Syncing README modified at Thu Jul 30 17:02:18 -0400 2009
+E, [2009-07-30T17:04:58.700012 #5048] ERROR -- : There are no workers ready for this project right now.
+Please try again in one minute. If there is no response a second time, please report this problem to support@devver.net
+I, [2009-07-30T17:17:53.227635 #6184]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T17:17:53.227766 #6184]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T17:17:53.290918 #6184]  INFO -- : Requesting project_id 1189068742

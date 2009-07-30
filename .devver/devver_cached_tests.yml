@@ -1,0 +1,6 @@
+--- 
+test/stuff_test.rb: 
+- !ruby/object:Devver::Messages::TestRequest 
+  test_class: StuffTest
+  test_file: test/stuff_test.rb
+  test_method: test_identity

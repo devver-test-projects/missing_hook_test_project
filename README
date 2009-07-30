@@ -1,0 +1,6 @@
+This project tests how Devver handles missing hooks.  It has a .devver/hooks
+directory; but one or more of the hooks that it should be populated with is
+missing.
+
+Note that the stub Rakefile, db directory, and config/database.yml are all
+necessary to trigger execution of the init_database hook.
